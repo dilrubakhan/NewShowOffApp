@@ -37,4 +37,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "devise"
 gem 'materialize-sass'
 gem 'dotenv-rails'
-gem "paperclip",'~> 3.5.0'
+gem "paperclip",'~> 5.2.0'
